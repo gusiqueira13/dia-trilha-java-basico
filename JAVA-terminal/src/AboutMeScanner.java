@@ -25,12 +25,8 @@ public class AboutMeScanner {
         System.out.println("Minha altura é " + altura + "cm");
 
 
-        class Tv {
-            int canal = 1;
-            void mudarCanal(){
-                canal = novoCanal;
-            }
-        }
+        
+        
 
         
     }
